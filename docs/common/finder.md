@@ -121,7 +121,7 @@ Trong quy mô website, người đọc quan tâm nhất đến thông tin, cách
 
 Khi bạn không thực hiện theo tư vấn của OSD.VN, theo thời gian, có thể phải xử lý kỹ thuật để giúp website được hoạt động nhanh:
 
-**1. TTFB: **chỉ số quan trọng hàng đầu để Google đo điểm SEO Onpage của website tại công cụ tư vấn Google PageSpeed Insights
+**1. TTFB:** chỉ số quan trọng hàng đầu để Google đo điểm SEO Onpage của website tại công cụ tư vấn Google PageSpeed Insights
 
 **2. Dùng CDN:** Khi hệ thống quá nhiều ảnh trong 1 thư mục vì phải load nhiều ảnh từ trang chủ sẽ cần thuê ngoài 1 giải pháp CDN nhằm giảm tải cho máy chủ.
 
