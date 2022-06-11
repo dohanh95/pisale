@@ -53,13 +53,13 @@ Trình đơn này được hiện ra khi bạn click phải chuột vào đối 
 - **Copy** sao chép file hiện tại vào khay nhớ và có thể thao tác tới thư mục đích để dán 1 tương tự.
 - **Cut** cắt file hiện tại vào khay nhớ để di chuyển sang thư mục ảnh khác
 - **Duplicate** nhân bản 1 file
-- Delete xóa 1 file
-- Hide (preference) Ẩn file ảnh
-- Rename đổi tên 1 file
-- Resize & Rotate tiện ích chỉnh sửa ảnh dạng đơn giản. Xin vui lòng xem thêm cách dùng bên dưới.
-- Create archive Tạo kho lưu trữ (có 5 kiểu nén: TAR archive, GZIP archive, BZIP archive, XZ archive, ZIP archive)
-- Select all chọn toàn bộ file trong 1 thư mục
-- Invert selection đảo chọn toàn bộ các file trong 1 thư mục so với những file đang ở trạng thái chọn
+- **Delete** xóa 1 file
+- **Hide (preference)** Ẩn file ảnh
+- **Rename** đổi tên 1 file
+- **Resize & Rotate** tiện ích chỉnh sửa ảnh dạng đơn giản. Xin vui lòng xem thêm cách dùng bên dưới.
+- **Create archive** Tạo kho lưu trữ (có 5 kiểu nén: TAR archive, GZIP archive, BZIP archive, XZ archive, ZIP archive)
+- **Select all** chọn toàn bộ file trong 1 thư mục
+- **Invert selection** đảo chọn toàn bộ các file trong 1 thư mục so với những file đang ở trạng thái chọn
 
 ### Đối với file nén (chức năng giới hạn)
 
@@ -70,37 +70,37 @@ máy chủ, chức năng này chỉ được mở khi được yêu cầu hỗ t
 
 Cách thao tác tương tự như với file, đặc thù của thư mục sẽ cho phép bạn thao tác những chức năng sau:
 
-- Open mở thư mục
-- Open in new window mở thư mục tại cửa sổ mới
-- Download tải toàn bộ nội dung thư mục về máy tính
-- Preview Xem trước thư mục file
-- Upload files upload file từ máy tính lên thư mục ảnh
-- Into New Folder chuyển nhanh 1 thư mục vào thư mục mới có tên NewFolder
-- Copy sao chép thư mục hiện tại vào khay nhớ và có thể thao tác tới thư mục đích để dán 1 tương tự.
-- Cut cắt thư mục hiện tại vào khay nhớ để di chuyển sang 1 thư mục ảnh khác
-- Duplicate nhân bản 1 thư mục
-- Delete xóa thư mục ảnh
-- Empty the folder xóa toàn bộ file và thư mục bên trong thư mục đang chọn
-- Hide (Preference) Ẩn 1 thư mục 
-- Rename đổi tên 1 thư mục
-- Create archive Tạo kho lưu trữ thư mục (có 5 kiểu nén: TAR archive, GZIP archive, BZIP archive, XZ archive, ZIP archive)
-- Select all chọn toàn bộ file trong 1 thư mục
-- Invert selection đảo chọn toàn bộ các file trong 1 thư mục so với những file đang ở trạng thái chọn
+- **Open** mở thư mục
+- **Open in new window** mở thư mục tại cửa sổ mới
+- **Download** tải toàn bộ nội dung thư mục về máy tính
+- **Preview** Xem trước thư mục file
+- **Upload files** upload file từ máy tính lên thư mục ảnh
+- **Into New Folder** chuyển nhanh 1 thư mục vào thư mục mới có tên NewFolder
+- **Copy** sao chép thư mục hiện tại vào khay nhớ và có thể thao tác tới thư mục đích để dán 1 tương tự.
+- **Cut** cắt thư mục hiện tại vào khay nhớ để di chuyển sang 1 thư mục ảnh khác
+- **Duplicate** nhân bản 1 thư mục
+- **Delete** xóa thư mục ảnh
+- **Empty the folder** xóa toàn bộ file và thư mục bên trong thư mục đang chọn
+- **Hide (Preference)** Ẩn 1 thư mục 
+- **Rename** đổi tên 1 thư mục
+- **Create archive** Tạo kho lưu trữ thư mục (có 5 kiểu nén: TAR archive, GZIP archive, BZIP archive, XZ archive, ZIP archive)
+- **Select all** chọn toàn bộ file trong 1 thư mục
+- **Invert selection** đảo chọn toàn bộ các file trong 1 thư mục so với những file đang ở trạng thái chọn
 
 ## Chỉnh sửa và thay đổi kích thước hình ảnh
 
 **Các chức năng chỉ hỗ trợ mức đơn giản như dưới đây**
 
-- Aspect Ratio giữ tỉ lệ ảnh, điều chỉnh kích thước chiều rộng của ảnh sau đó click nút Aspect ratio thì chiều cao tự động resize theo kích thước tương ứng. Nên dùng chức năng này để ảnh theo tỉ lệ chuẩn
-- Reset trở về trạng thái ban đầu của ảnh
-- Quality dung lượng ảnh
-- Scale tỉ lệ ảnh theo kích thước của ảnh ban đầu.
-- Apply lưu đè lên ảnh gốc
-- Save as lưu ảnh thành 1 file ảnh khác và ảnh gốc được giữ nguyên
-- Crop cắt ảnh theo kích thích tùy chỉnh
-- Rotate tùy chỉnh xoay ảnh
-- Presets kích thước ảnh được cài đặt sẵn
-- Cancel thoát khỏi chức năng resize
+- **Aspect Ratio** giữ tỉ lệ ảnh, điều chỉnh kích thước chiều rộng của ảnh sau đó click nút Aspect ratio thì chiều cao tự động resize theo kích thước tương ứng. Nên dùng chức năng này để ảnh theo tỉ lệ chuẩn
+- **Reset** trở về trạng thái ban đầu của ảnh
+- **Quality** dung lượng ảnh
+- **Scale** tỉ lệ ảnh theo kích thước của ảnh ban đầu.
+- **Apply** lưu đè lên ảnh gốc
+- **Save as** lưu ảnh thành 1 file ảnh khác và ảnh gốc được giữ nguyên
+- **Crop** cắt ảnh theo kích thích tùy chỉnh
+- **Rotate** tùy chỉnh xoay ảnh
+- **Presets** kích thước ảnh được cài đặt sẵn
+- **Cancel** thoát khỏi chức năng resize
 
 ### Tư vấn tổ chức thư mục khoa học
 
@@ -108,7 +108,7 @@ Có 2 lý do chính mà bạn cần tổ chức thư mục khoa học theo nhu c
 
 ### Vì thói quen tổ chức thư mục tốt sẽ giúp bạn xử lý công việc nhanh hơn.
 
-Hệ thống của OSD.VN theo logic tinh gọn và giảm chi phí xử lý về phần cứng máy chủ nên sẽ lưu trực tiếp thư mục và file của bạn trên ổ cứng máy chủ tương tự như cách bạn lưu thư mục và file trên Windows Explorer hay MacOS X Finder
+Hệ thống của OSD.VN theo logic tinh gọn và giảm chi phí xử lý về phần cứng máy chủ nên sẽ lưu trực tiếp thư mục và file của bạn trên ổ cứng máy chủ tương tự như cách bạn lưu thư mục và file trên Windows **Explorer** hay MacOS X **Finder**
 
 Khi tìm kiếm lại ảnh đã có trên hệ thống mất thời gian hơn.
 Mỗi lần thao tác với trình quản lý file, khi có quá nhiều file trong 1 thư mục sẽ khiến bạn phải đợi hệ thống load lại trong thời gian dài mới có thể chọn được file mong muốn
@@ -141,9 +141,9 @@ Người dùng quản trị hệ thống sẽ nhìn thấy và thao tác đượ
 
 #### Thùng rác (Trash)
 
-Chức năng này chỉ được hiển thị với nhóm quản trị hệ thống, đề phòng sai sót trong quá trình vận hành. Ở phía cuối của bộ quản lý file có thư mục Trash. Tạm hiểu, đây là thư mục đệm để giảm rủi ro trong quá trình vận hành. Khi ảnh bị xóa bởi bất kỳ nhóm người dùng nào cũng sẽ được đưa vào Trash.
+Chức năng này chỉ được hiển thị với nhóm quản trị hệ thống, đề phòng sai sót trong quá trình vận hành. Ở phía cuối của bộ quản lý file có thư mục **Trash**. Tạm hiểu, đây là thư mục đệm để giảm rủi ro trong quá trình vận hành. Khi ảnh bị xóa bởi bất kỳ nhóm người dùng nào cũng sẽ được đưa vào **Trash**.
 
-Người dùng có quyền quản trị có thể xóa vĩnh viễn hoặc khôi phục lại hình ảnh trong thùng rác, tương tự như cơ chế quản lý file với công cụ Windows Explorer hoặc Finder của MacOS X.
+Người dùng có quyền quản trị có thể xóa vĩnh viễn hoặc khôi phục lại hình ảnh trong thùng rác, tương tự như cơ chế quản lý file với công cụ **Windows Explorer** hoặc **Finder** của **MacOS X**.
 
 ### Chính sách upload hình ảnh lên hệ thống
 
