@@ -2,15 +2,19 @@
 
 ## Thêm một sản phẩm
 
-**Bước 1** Tại màn hình quản trị, bạn chọn Nội dung -> Sản phẩm
+**Bước 1** Tại màn hình quản trị, bạn chọn **Nội dung** -> **Sản phẩm**
 
-**Bước 2** Nhấp chuột vào Thêm
+**Bước 2** Nhấp chuột vào **Thêm**
 
 **Bước 3** Trang tạo bài sản phẩm mới được mở ra, nhập thông tin các trường trong sản phẩm bao gồm:
 
+![san-pham-2.jpg (76 KB)](../media/data/news/2022/hdsd-pisale/san-pham-2.jpg)
+
+![san-pham-3.jpg (52 KB)](../media/data/news/2022/hdsd-pisale/san-pham-3.jpg)
+
 Những thông tin cụ thể cần điền như sau:
 
-**Tên sản phẩm** Nhập tên sản phẩm bạn muốn hiển thị trên wesbite (ví dụ: Dark Blue Windbreaker)
+**Tên sản phẩm** Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn** Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm.
 
@@ -19,6 +23,8 @@ Những thông tin cụ thể cần điền như sau:
 Bạn có thể tham khảo thêm bài viết kỹ thuật (hướng dẫn) viết bài chuẩn SEO đạt kết quả cao
 
 **Thông tin ưu đãi/ Tiêu chuẩn hàng hóa** Nhập nội dung ưu đãi hoặc tiêu chuẩn hàng hóa cho mỗi sản phẩm. Được hiển thị góc phải ảnh đại diện sản phẩm
+
+![thong-tin-uu-dai.jpg (19 KB)](../media/data/news/2022/hdsd-pisale/thong-tin-uu-dai.jpg)
 
 **Giá bán** Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
 
@@ -91,7 +97,7 @@ Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Me
 
 **Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì không cần điền. Meta description là thẻ mô tả tóm tắt nội dung của trang web, giúp công cụ tìm kiếm và người đọc có thể hiểu rõ hơn được về chủ đề trang web của bạn
 
-**SEO URL** Giá trị này tự động được sinh ra trùng với tên tiêu đề ngôn ngữ English (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, SEO URL không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“) (ví dụ: dark-blue-windbreaker)
+**SEO URL** Giá trị này tự động được sinh ra trùng với tên tiêu đề ngôn ngữ English (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, SEO URL không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
 
 **Bước 4** Nhấp chuột vào nút Lưu để hoàn tất.
 
