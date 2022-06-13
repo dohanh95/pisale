@@ -15,7 +15,7 @@ Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm.
 
 Những thông tin cụ thể cần điền như sau:
 
-**Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những sản phẩm mà bạn đã thêm vào. (ví dụ tên nhóm sản phẩm: Oxfords)
+**Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những sản phẩm mà bạn đã thêm vào.
 
 **Mô tả phía trên** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm
 
@@ -41,7 +41,7 @@ Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Me
 
 **Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì không cần điền. Meta description là thẻ mô tả tóm tắt nội dung của trang web, giúp công cụ tìm kiếm và người đọc có thể hiểu rõ hơn được về chủ đề trang web của bạn
 
-**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“) (ví dụ: oxfords).
+**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
 
 **Bước 4** Nhấp chuột vào nút Lưu để hoàn tất
 
