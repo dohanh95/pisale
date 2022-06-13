@@ -9,6 +9,8 @@
 
 **Bước 3** Trang tạo nhóm sản phẩm mới được mở ra, điền các thông tin chi tiết của nhóm sản phẩm đó.
 
+![nhom-san-pham-chi-tiet-1.jpg (169 KB)](../media/data/news/2022/hdsd-pisale/nhom-san-pham-chi-tiet-1.jpg)
+
 Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm.
 
 Những thông tin cụ thể cần điền như sau:
