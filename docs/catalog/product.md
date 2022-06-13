@@ -24,8 +24,6 @@ Bạn có thể tham khảo thêm bài viết kỹ thuật (hướng dẫn) vi�
 
 **Thông tin ưu đãi/ Tiêu chuẩn hàng hóa** Nhập nội dung ưu đãi hoặc tiêu chuẩn hàng hóa cho mỗi sản phẩm. Được hiển thị góc phải ảnh đại diện sản phẩm
 
-![thong-tin-uu-dai.jpg (19 KB)](../media/data/news/2022/hdsd-pisale/thong-tin-uu-dai.jpg)
-
 **Giá bán** Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
 
 **Số lượng** Nhập số lượng thực tế sản phẩm còn trong kho cửa hàng
