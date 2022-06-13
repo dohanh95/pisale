@@ -83,55 +83,40 @@ Nội dung: nhập nội dung đặc điểm nổi bật của sản phẩm vào
 
 **Câu hỏi thường gặp**
 
-Câu hỏi thường gặp là các câu hỏi và trả lời thường theo cùng một chủ đề nhất định. Tập hợp những câu hỏi phổ biến thường có xu hướng được hỏi đi hỏi lại, giúp người đọc hiểu rõ hơn về sản phẩm của bạn.
-
-**Tiêu đề**
-Dựa vào mục đích của sản phẩm để đặt câu hỏi, bạn có thể sử dụng các cách thức sau:
-Hỏi thẳng vào vấn đề Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
-Đưa những câu hỏi mở thăm dò Những câu hỏi này nhằm thăm dò ý kiến, khiến cho người được hỏi có thể đưa ra thêm các thông tin giải đáp những điều người đọc thường thắc mắc.
-**Nội dung**
-Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
+Xem tại đây
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
-**Meta title**
+**Meta title** Tự động lấy từ Tiêu đề, khi Meta title không khác tiêu đề thì không cần điền. Thẻ tiêu đề được hiển thị trên các trang kết quả của công cụ tìm kiếm dưới dạng tiêu đề có thể nhấp cho một kết quả nhất định và rất quan trọng đối với khả năng sử dụng, SEO và chia sẻ mạng xã hội
 
-Tự động lấy từ Tiêu đề, khi Meta title không khác tiêu đề thì không cần điền. Thẻ tiêu đề được hiển thị trên các trang kết quả của công cụ tìm kiếm dưới dạng tiêu đề có thể nhấp cho một kết quả nhất định và rất quan trọng đối với khả năng sử dụng, SEO và chia sẻ mạng xã hội
+**Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì không cần điền. Meta description là thẻ mô tả tóm tắt nội dung của trang web, giúp công cụ tìm kiếm và người đọc có thể hiểu rõ hơn được về chủ đề trang web của bạn
 
-Meta Description
+**SEO URL** Giá trị này tự động được sinh ra trùng với tên tiêu đề ngôn ngữ English (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, SEO URL không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“) (ví dụ: dark-blue-windbreaker)
 
-Tự động lấy từ Sapo, khi Meta Description không khác sapo thì không cần điền. Meta description là thẻ mô tả tóm tắt nội dung của trang web, giúp công cụ tìm kiếm và người đọc có thể hiểu rõ hơn được về chủ đề trang web của bạn
-
-SEO URL
-
-Giá trị này tự động được sinh ra trùng với tên tiêu đề ngôn ngữ English (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, SEO URL không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“) (ví dụ: dark-blue-windbreaker)
-
-Bước 4 Nhấp chuột vào nút Lưu để hoàn tất.
+**Bước 4** Nhấp chuột vào nút Lưu để hoàn tất.
 
 Có 2 lựa chọn cho bạn là Lưu, Lưu và thêm
 
 Khi bạn nhấn chọn Lưu, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài sản phẩm vừa thêm mới đó.
 
-Khi bạn lựa chọn Lưu và thêm, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
+Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
 
-Chú ý: cần nhập nội dung English và nội dung tiếng Việt
+## Sửa một bài viết sản phẩm
 
-Sửa một bài viết sản phẩm
+Nhấn chọn trực tiếp vào bài sản phẩm để **Sửa**, sau khi thay đổi các thông tin - thiết lập của bài sản phẩm cần chọn Lưu để hoàn tất.
 
-Nhấn chọn trực tiếp vào bài sản phẩm để Sửa, sau khi thay đổi các thông tin - thiết lập của bài sản phẩm cần chọn Lưu để hoàn tất.
+## Xóa một bài sản phẩm
 
-Xóa một bài sản phẩm
+**Cách 1**: Xóa bài sản phẩm tại menu thả danh sách xuống bên trái
 
-Cách 1: Xóa bài sản phẩm tại menu thả danh sách xuống bên trái
+Nhấn tích vào tin bài đó và chọn **Xóa**.
 
-Nhấn tích vào tin bài đó và chọn Xóa.
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?. Bạn chọn OK
+**Cách 2**: Xóa tại bài sản phẩm chi tiết
 
-Cách 2: Xóa tại bài sản phẩm chi tiết
+Truy cập sản phẩm chi tiết, bên góc phải màn hình nhấn chọn tab Xóa sản phẩm. Tương tự cách xóa 1, hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
 
-Truy cập sản phẩm chi tiết, bên góc phải màn hình nhấn chọn tab Xóa sản phẩm. Tương tự cách xóa 1, hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?. Bạn chọn OK
-
-Nhân bản bài sản phẩm
+## Nhân bản bài sản phẩm
 
 Nhấn tích bài sản phẩm và nhấn chọn Nhân bản
